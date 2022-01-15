@@ -1,15 +1,17 @@
 {
-  "name": "bashplay",
-  "version": "1.0.0",
-  "description": "",
+  "name": "bashplayseries",
+  "version": "2.2.0",
+  "description": "uijhji",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "hi"
+  ],
+  "author": "hi",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "webpack": "^5.66.0"
   }
 }
